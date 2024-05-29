@@ -1,0 +1,13 @@
+.DS_Store
+.vscode
+*.key
+*.zip
+packaged.yaml
+*.idea*
+*.tgz
+__pycache__
+__pycache__/**
+.venv
+.venv/**
+.mypy_cache
+.mypy_cache/**

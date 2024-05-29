@@ -1,0 +1,6 @@
+name: futures
+runtime:
+  name: python
+  options:
+    virtualenv: ../.venv
+description: Futures example
