@@ -61,9 +61,9 @@ def wrong_way():
     )
 
 
-# apply_example()
+apply_example()
 # all_example()
 # concat_example()
 # from_input_example(RandomString("my-random-str", length=5).result)
 # from_input_example("mystr")
-wrong_way()
+# wrong_way()
