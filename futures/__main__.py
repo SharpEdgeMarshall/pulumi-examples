@@ -1,6 +1,6 @@
 import _outputs
 
 # import _dependencies
-# import _transform
+# import _manipulation
 # import _aws
 # import _resource_name
